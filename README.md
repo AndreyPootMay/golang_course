@@ -1,6 +1,6 @@
 ## Golang Course exercises
 
-Based on JAOR's Software Go [Language Course](https://www.youtube.com/playlist?list=PLJy7--EGFrT0sYkEsToUERbQZnE4cbObL)
+Based on JAOR's Software Go [Language Course](https://www.youtube.com/playlist?list=PL1xeVkd9tTFhEyLQIJHGCHUX2XYmh0Ige)
 
 -----
 
